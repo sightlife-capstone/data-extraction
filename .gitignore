@@ -47,7 +47,10 @@ vignettes/*.pdf
 # End of https://www.gitignore.io/api/r
 
 
-### Excel files ###
+### Potentially sensitive data ###
 
 *.xlsx
 *.xls
+
+data/
+!data/*.md
