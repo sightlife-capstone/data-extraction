@@ -1,0 +1,54 @@
+Needed Rates
+============
+
+1
+Death Notification Rate (overall)
+Death Notification Rate (in units served during working hours)
+
+2
+Screening Rate %
+Suitability Rate %
+Approach Rate %
+Consent Rate %
+
+3
+Total Eyes or Corneas Recovered
+    % of cornea recovered with intent for transplant
+
+4
+% of suitable tissues that are optical grade
+
+5
+    Optical Transplant Rate or Utilization Rate:
+    Overall Transplant Rate or Utilization Rate (Total Transplanted / Total Recovered):
+HCRP Tissue Utilization Rate
+Voluntary Tissue Utilization Rate
+Eye Retrieval Center Tissue Utilization Rate
+Other Sourced Tissue Utilization Rate
+
+
+Rate Calculation
+================
+
+HCRP Utilization Rate
+    "Distributed and used / Source - HCRP Donor tissue used" /
+     "Eyes or Corneas - HCRP"
+
+Notification Rate
+    "Total deaths in units served during working hours" /
+    "Total deaths in hospitals served"
+
+Suitability Rate
+    "Potential donors screened by EB staff with doctor, nurse, or medical chart" /
+    "Potential Donors initially suitable for transplant"
+
+Consent Rate
+    "Consented Potential Donors - HCRP" /
+    "Approached Potential Donors"
+
+EDC Productivity
+    HCRP transplants /
+    number of EDCs
+
+
+Overall Transplant Utilization Rate
